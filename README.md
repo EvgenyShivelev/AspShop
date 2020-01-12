@@ -1,7 +1,6 @@
 # Shop on ASP.NET CORE
-Digital goods store on *ASP.NET CORE*
+Digital goods store on *ASP.NET CORE* (In a progress)
 
-**Progress**
 # General
 - [x]  Application Core;
 - [x]  Infrastructure;
